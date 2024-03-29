@@ -1,6 +1,6 @@
 {
   "name": "@borngroup-accelerator/born-build",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Born tool for builds that run on node>= 18",
   "main": "src/index.js",
   "scripts": {
@@ -33,6 +33,7 @@
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.0",
+    "eslint-webpack-plugin": "^4.1.0",
     "glob": "^7.1.6",
     "mini-css-extract-plugin": "^2.7.6",
     "minimist": "^1.2.6",
