@@ -26,6 +26,6 @@
     }
   },
   "devDependencies": {
-    "@borngroup-accelerator/born-build": "^1.0.0"
+    "@borngroup-accelerator/born-build": "^1.0.1"
   }
 }
